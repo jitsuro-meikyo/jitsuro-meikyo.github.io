@@ -1,0 +1,45 @@
+body {
+  color: #4B5255;
+  background-color: #97A4AB;
+  padding: 4em 8em;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-size: 20px; 
+}
+
+h2,
+h3 {
+  color: #323739;
+  text-transform: uppercase;
+}
+
+h1 {
+  color: #191B1C;
+}
+
+ul {
+  margin-left: 0em;
+}
+
+table {
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+}
+
+td {
+  text-align: left;
+  padding-left: 0.3em;
+  padding-bottom: 0.2em;
+}
+
+tr:hover {
+  background-color: #191B1C;
+  color: #C9DAE4;
+}
+
+img {
+  margin-left: 0.3em;
+  border: 10px solid #B0BFC8;
+  opacity: 90%;
+}
+
+<!-- colors #C9DAE4 #B0BFC8 #97A4AB #7E888E #656D72 #4B5255 #323739 #191B1C -->
